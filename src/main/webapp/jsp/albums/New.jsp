@@ -61,11 +61,11 @@
 			<select class="form-select" id="genre" name="genre">
 				<option value="0" selected>--Select--</option>
 				<option value="Classical">Classical</option>
-				<option value="Jazz">Hip-Hop</option>
-				<option value="Blues">R&B</option>
-				<option value="Rock">Pop</option>
-				<option value="Rock">Grime</option>
-				<option value="Rock">Soul</option>
+				<option value="Hip-Hop">Hip-Hop</option>
+				<option value="R&B">R&B</option>
+				<option value="Pop">Pop</option>
+				<option value="Grime">Grime</option>
+				<option value="Soul">Soul</option>
 			</select>
 		</div>
 		

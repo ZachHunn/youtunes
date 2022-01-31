@@ -76,9 +76,11 @@
 							<% System.out.println("Selected Genre: " + album.getGenre()); %>
 							
 							<option value="Classical" <% if (album.getGenre().equals("Classical")) { %> selected <% } %> >Classical</option>
-							<option value="Jazz" <% if (album.getGenre().equals("Jazz")) { %> selected <% } %> >Jazz</option>
-							<option value="Blues" <% if (album.getGenre().equals("Blues")) { %> selected <% } %> >Blues</option>
-							<option value="Rock" <% if (album.getGenre().equals("Rock")) { %> selected <% } %> >Rock</option>
+							<option value="Hip-Hop" <% if (album.getGenre().equals("Hip-Hop")) { %> selected <% } %> >Hip-Hop</option>
+							<option value="R&B" <% if (album.getGenre().equals("R&B")) { %> selected <% } %> >R&B</option>
+							<option value="Soul" <% if (album.getGenre().equals("Soul")) { %> selected <% } %> >Soul</option>
+							<option value="Pop" <% if (album.getGenre().equals("Pop")) { %> selected <% } %> >Pop</option>
+							<option value="Grime" <% if (album.getGenre().equals("Grime")) { %> selected <% } %> >Grime</option>
 						</select>
 					</div>
 		

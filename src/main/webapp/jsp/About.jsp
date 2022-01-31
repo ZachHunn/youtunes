@@ -21,7 +21,7 @@
 	
 	<div class="row">
 		<div class="col-12">
-			<h3 class="text-center">Wolfgang Amadeus Mozart</h3>
+			<h3 class="text-center">YouTunes</h3>
 		</div>
 	</div>
 	
@@ -33,11 +33,11 @@
 		
 		<div class="col-8">
 			<p>
-        		An Austrian composer of the Classical period, Wolfgang Amadeus Mozart is widely recognized as one of the greatest composers of Western music.
-       			He is the only composer to write and excel in all of the musical genres of his time.
-        		Rumored to have had the ability to play music at age three and to write music at age five, Mozart began his career as a child prodigy.
-        		Notable compositions include The Marriage of Figaro, Elvira Madigan, and Clarinet Quintet in A Major, K 581. 
-       			<em class="apa-reference"><a href="https://www.britannica.com/list/10-classical-music-composers-to-know" target="_blank">Source</a></em>
+        		YouTunes is a new streaming music service, comparable to similar 
+       			streaming services like Apple Music, Spotify, Amazon Music Unlimited, Google Play Music, 
+        		Tidal, and others, though it has a leg up over many of its competitors with 
+        		lossless audio and Spatial Audio support. YouTunes boasts access to more than 350 million albums.
+       			
       		</p>
 		</div>
 	</div>

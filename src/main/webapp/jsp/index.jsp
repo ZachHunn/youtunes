@@ -30,15 +30,12 @@
 		<section class="py-5 text-center container">
 			<div class="row py-lg-5">
 				<div class="col-lg-6 col-md-8 mx-auto">
-					<h1 class="fw-light">YouTunes</h1>
+					<h1 class="fw-light">YouTunes Music</h1>
 					<p class="lead text-muted">Welcome to YouTunes, your "one stop
 						shop" to all of your music needs. Below you will find a list of
-						our current selection. To add a new album, click on the "New Music
-						Album" button. For artists, select the "Artist" link from the
+						our current selection. For artists, select the "Artist" link from the
 						top-hand menu pane.</p>
-					<p>
-						<a href="store?action=newAlbum" class="btn btn-primary my-2">New Music Album</a>
-					</p>
+				
 				</div>
 			</div>
 		</section>
@@ -57,7 +54,7 @@
 					
 					<div class="col">
 						<div class="card shadow-sm">
-							<img src="<%= request.getContextPath() + "/images/" + album.getImgUrl()%>" height="400" class="card-img-top" />
+							<img src=<%= request.getContextPath() + "/images/" + album.getImgUrl()%> height="400" class="card-img-top" />
 
 							<div class="card-body">
 								<p class="card-text">
