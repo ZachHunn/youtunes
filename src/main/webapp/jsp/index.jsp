@@ -1,22 +1,14 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
 
-<!-- Sprint 3 -->
+
 <%@page import="java.util.List"%>
 <%@page import="java.util.Iterator"%>
 <%@page import="youtunes.model.Album"%>
 
 <jsp:useBean id="albumDao" scope="application" class="youtunes.service.impl.JdbcAlbumDao" />
 
-<!--  
-	Image references 
-	Beethoven: https://www.britannica.com/summary/Ludwig-van-Beethoven
-	Bach: https://www.britannica.com/biography/Johann-Sebastian-Bach
-	Mozart: https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart
-	Wagner: https://www.britannica.com/biography/Richard-Wagner-German-composer 
-	Haydn: https://www.britannica.com/biography/Joseph-Haydn
-	Debussy: https://www.britannica.com/biography/Claude-Debussy 
--->
+
 
 <!DOCTYPE html>
 <html>

@@ -20,7 +20,7 @@
 	integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
 	crossorigin="anonymous">
 	
-<link rel="stylesheet" href="/youtunes/css/site.css" type="text/css" />
+
 
 <style>
 	#alert-genre-message {
@@ -61,9 +61,11 @@
 			<select class="form-select" id="genre" name="genre">
 				<option value="0" selected>--Select--</option>
 				<option value="Classical">Classical</option>
-				<option value="Jazz">Jazz</option>
-				<option value="Blues">Blues</option>
-				<option value="Rock">Rock</option>
+				<option value="Jazz">Hip-Hop</option>
+				<option value="Blues">R&B</option>
+				<option value="Rock">Pop</option>
+				<option value="Rock">Grime</option>
+				<option value="Rock">Soul</option>
 			</select>
 		</div>
 		

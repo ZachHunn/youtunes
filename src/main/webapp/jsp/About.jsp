@@ -28,7 +28,7 @@
 	<br />
 	<div class="row">
 		<div class="col-4">
-			<img src="/youtunes/images/youtunes-about.png" />
+			<img src="/youtunes/images/youtunes.png" />
 		</div>
 		
 		<div class="col-8">

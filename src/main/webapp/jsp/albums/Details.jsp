@@ -23,7 +23,7 @@
 	integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
 	crossorigin="anonymous">
 	
-<link rel="stylesheet" href="/youtunes/css/site.css" type="text/css" />
+
 
 <style>
 	#alert-genre-message {
@@ -127,7 +127,7 @@
 </div>
 
 <script type="text/javascript">
-	// TODO: refactor this code into a function/javascript file.  The Details.jsp and index.jsp pages use the same code.
+	
 	let albumForm = document.getElementById("albumForm");
 	
 	albumForm.onsubmit = function() {

@@ -18,7 +18,7 @@
     integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" 
     crossorigin="anonymous">
     
-<link rel="stylesheet" href="/youtunes/css/site.css" type="text/css" />
+
     
 </head>
     
@@ -26,7 +26,7 @@
 <body>
 <jsp:include page="TopNav.jsp" flush="true" />
 
-<!-- start of container -->
+
 <div class="container py-5 width-35">
 	<div class="row">
 		<div class="col-12 text-center">
@@ -36,9 +36,9 @@
 	
 	<br /><br />
 	
-	<!--  start of the row -->
+
 	<div class="row">
-		<!--  start of the six column -->
+		
 		<div class="col-6">
 			<div class="row text-center">
 				<div class="col-12">
@@ -49,15 +49,13 @@
 			<div class="row text-center">
 				<div class="col-12">
 					<ul class="list-group">
-						<li class="list-group-item border-0">1000 Galvin Road South</li>
-						<li class="list-group-item border-0">Bellevue, Nebraska 68005</li>
+						<li class="list-group-item border-0">123 Music Road</li>
+						<li class="list-group-item border-0">Tucson, Arizona 85708</li>
 					</ul>
 				</div>
 			</div>
 		</div>
-		<!-- end of six column -->
 		
-		<!-- start of the six column -->
 		<div class="col-6">
 			<div class="row text-center">
 				<div class="col-12">
@@ -75,11 +73,11 @@
 				</div>
 			</div>
 		</div>
-		<!-- end of six column -->
+	
 	</div>
-	<!-- end of the row -->
+	
 </div>
-<!-- end of container -->
+
 
 <jsp:include page="ScriptFooter.jsp" flush="true" />
 

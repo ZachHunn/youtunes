@@ -13,7 +13,7 @@
 			<a href="#">Back to top</a>
 		</p>
 		<p>
-			&copy; <%=year%> - <%=courseName%> (<%=appName%>) | <a href="https://www.bellevue.ed" target="_blank">Bellevue University</a>
+			&copy; <%=year%> - <%=courseName%> (<%=appName%>) | <span>Zachary Hunn</span>
 		</p>
 	</div>
 </footer>
